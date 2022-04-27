@@ -17,6 +17,8 @@ The purpose of the challenge is to analyze the temperature trend in Oahu, Hawaii
 
 ## Results
 
+!C:\Users\EE Fam\Desktop\temp_stats.png
+
 - One of the differences is the temperature in December of range of 71 to 73 degrees F occurs most frequently in the plot, the curves look more vary than June; however, for the June temperature it is normal distributed in range 70 to 80 degrees F.  
 
 - For this 7 years data, somehow the count of June and December are 183 (1700-1517) days different. It maybe missing a year of December data or some information are missing.
